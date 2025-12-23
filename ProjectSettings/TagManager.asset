@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platform
+  - Background
+  - Player
+  - Wall
+  - Hazzard
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4235424851
+    locked: 0
+  - name: Plarform
+    uniqueID: 636937073
+    locked: 0
+  - name: decor behind
+    uniqueID: 3504210973
+    locked: 0
+  - name: Player
+    uniqueID: 1898672369
+    locked: 0
+  - name: decor in front
+    uniqueID: 4162499659
+    locked: 0
+  m_RenderingLayers:
+  - Default
